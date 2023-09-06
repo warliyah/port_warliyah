@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>PORTOFOLIO - Liyah</title>
+</head>
+<body>
+	<!-- jumbotron -->
+	<div class="jumbotron text-center">
+		<img src="download " width="50px">
+		<h1>warliyah</h1>
+		<p>Student | Front End Developer</p>
+	</div>
+	<!-- akhir jumbotron -->
+
+	<!-- about -->
+	<section class="about">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<h2 class="text-center">ABOUT</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-6">
+					<p>
+						Manjiro “Mikey” Sano adalah pemimpin geng Tokyo Manji alas Toman. Meskipun dia menjadi pusat cerita Tokyo Revengers , dia adalah karakter yang sulit dibaca. Protagonis serial ini bukanlah Mikey, tapi Takemichi Hanagaki. Meski begitu, apa pun yang dilakukan Takemichi selalu ada kaitannya dengan Mikey.
+					</p>
+				</div>
+
+				<div class="col-sm-6">
+					<p>
+						Manjiro “Mikey” Sano adalah pemimpin geng Tokyo Manji alas Toman. Meskipun dia menjadi pusat cerita Tokyo Revengers , dia adalah karakter yang sulit dibaca. Protagonis serial ini bukanlah Mikey, tapi Takemichi Hanagaki. Meski begitu, apa pun yang dilakukan Takemichi selalu ada kaitannya dengan Mikey.
+					</p>
+				</div>
+
+			</div>
+		</div>
+	</section>
+	<!-- akhir about -->
+
+	<!-- portfolio -->
+	<section class="portfolio" id="portfolio">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<h2 class="text-center">PORTFOLIO</h2>
+					
+				</div>
+			</div>
+			
+		</div>
+	</section>
+	<!-- akhir portfolio -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
